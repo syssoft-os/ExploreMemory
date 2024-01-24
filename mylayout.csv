@@ -1,0 +1,10 @@
+0x000000000000002a,      value, Content of a
+0x000000016f55f2ac,      stack, Address of a
+0x000000000000002b,      value, Content of b
+0x00000001008a8000,     global, Address of b
+0x000060000292c030,       heap, Content of int_ptr
+0x000000016f55f2a0,      stack, Address of int_ptr
+0x000000000000002c,      value, Content of *int_ptr
+0x00000001008a3d44,       code, Address of main
+0x00000001008a3cf0,       code, Address of print_hex
+0x000000018a792f54,   code lib, Address of printf
